@@ -11,3 +11,7 @@ Datum změny: 2024-09-26, čas: 17:12
 ## Změna provedená na lokále.
 Datum změny: 2024-10-03, Čas: 16:32
 Už se tesim domu
+
+## Změna provedená přímo v GitHubu
+Datum změny: 2024-10-03, čas: 16:39
+git je nuda
