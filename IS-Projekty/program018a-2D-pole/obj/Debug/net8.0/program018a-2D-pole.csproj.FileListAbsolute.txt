@@ -1,0 +1,15 @@
+C:\Users\matyasos\Documents\aa\github-mk-is-2024-sk3\IS-Projekty\program018a-2D-pole\bin\Debug\net8.0\program018a-2D-pole.exe
+C:\Users\matyasos\Documents\aa\github-mk-is-2024-sk3\IS-Projekty\program018a-2D-pole\bin\Debug\net8.0\program018a-2D-pole.deps.json
+C:\Users\matyasos\Documents\aa\github-mk-is-2024-sk3\IS-Projekty\program018a-2D-pole\bin\Debug\net8.0\program018a-2D-pole.runtimeconfig.json
+C:\Users\matyasos\Documents\aa\github-mk-is-2024-sk3\IS-Projekty\program018a-2D-pole\bin\Debug\net8.0\program018a-2D-pole.dll
+C:\Users\matyasos\Documents\aa\github-mk-is-2024-sk3\IS-Projekty\program018a-2D-pole\bin\Debug\net8.0\program018a-2D-pole.pdb
+C:\Users\matyasos\Documents\aa\github-mk-is-2024-sk3\IS-Projekty\program018a-2D-pole\obj\Debug\net8.0\program018a-2D-pole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matyasos\Documents\aa\github-mk-is-2024-sk3\IS-Projekty\program018a-2D-pole\obj\Debug\net8.0\program018a-2D-pole.AssemblyInfoInputs.cache
+C:\Users\matyasos\Documents\aa\github-mk-is-2024-sk3\IS-Projekty\program018a-2D-pole\obj\Debug\net8.0\program018a-2D-pole.AssemblyInfo.cs
+C:\Users\matyasos\Documents\aa\github-mk-is-2024-sk3\IS-Projekty\program018a-2D-pole\obj\Debug\net8.0\program018a-2D-pole.csproj.CoreCompileInputs.cache
+C:\Users\matyasos\Documents\aa\github-mk-is-2024-sk3\IS-Projekty\program018a-2D-pole\obj\Debug\net8.0\program018a-2D-pole.sourcelink.json
+C:\Users\matyasos\Documents\aa\github-mk-is-2024-sk3\IS-Projekty\program018a-2D-pole\obj\Debug\net8.0\program018a-2D-pole.dll
+C:\Users\matyasos\Documents\aa\github-mk-is-2024-sk3\IS-Projekty\program018a-2D-pole\obj\Debug\net8.0\refint\program018a-2D-pole.dll
+C:\Users\matyasos\Documents\aa\github-mk-is-2024-sk3\IS-Projekty\program018a-2D-pole\obj\Debug\net8.0\program018a-2D-pole.pdb
+C:\Users\matyasos\Documents\aa\github-mk-is-2024-sk3\IS-Projekty\program018a-2D-pole\obj\Debug\net8.0\program018a-2D-pole.genruntimeconfig.cache
+C:\Users\matyasos\Documents\aa\github-mk-is-2024-sk3\IS-Projekty\program018a-2D-pole\obj\Debug\net8.0\ref\program018a-2D-pole.dll
